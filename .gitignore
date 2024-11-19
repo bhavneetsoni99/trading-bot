@@ -1,0 +1,6 @@
+/logs/
+/.idea/
+/__pycache__/
+/venv/
+/secrets/
+MY_SECRETS.py
